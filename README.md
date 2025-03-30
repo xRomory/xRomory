@@ -2,7 +2,7 @@
 <h3 align="center">A computer science student from the Philippines</h3>
 
 - 🌱 I’m currently learning:
-- **React-Native for Mobile Application**
+**React-Native for Mobile Application**
 
 - 📫 How to reach me:
 - **clyncemiro@gmail.com**
