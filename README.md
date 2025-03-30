@@ -1,19 +1,16 @@
 <h1 align="center">Hi, I'm Lawrence 👋</h1>
 <h3 align="center">A computer science student from the Philippines</h3>
 
-- 🌱 I’m currently learning:
-*React-Native for Mobile Application*
+- 🌱 I’m currently learning: **React-Native for Mobile Application**
 
-- 📫 How to reach me:
-- **clyncemiro@gmail.com**
+- 📫 How to reach me: **clyncemiro@gmail.com**
 
-- ⚡ Fun facts:
-- **Striving the make the best version of myself**
+- ⚡ Fun facts: **Striving the make the best version of myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_lawr.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_lawr.dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chrislawrencedevera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-lawrence-de-vera" height="30" width="40" /></a>
+<a href="https://twitter.com/_LawrDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_lawrdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chris-lawrence-de-vera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-lawrence-de-vera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
