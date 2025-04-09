@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **clyncemiro@gmail.com**
 
-- ⚡ Fun facts: **Striving the make the best version of myself**
+- ⚡ Fun facts: **Striving to make the best version of myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
