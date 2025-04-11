@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Lawrence 👋</h1>
 <h3 align="center">A computer science student from the Philippines</h3>
 
-- 🌱 I’m currently learning:
-- <br> ***React-Native for Mobile Application**
-- <br> ***React for Web Development**
-- <br> ***Django for my backend**
+- 🌱 I’m currently learning:<br> **React-Native for Mobile Application**<br> **React for Web Development**<br> **Django for my backend**
 
 - 📫 How to reach me: **clyncemiro@gmail.com**
 
