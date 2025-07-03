@@ -72,7 +72,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/xromory/xromory/output/snake.svg" alt="Snake animation" />
-
-###
