@@ -2,11 +2,30 @@
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJpMTVwaWpydmhiOXFrbmcxNWZzNHZoOWphcGsxbWI2Mm45OTVtciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/chris-lawrence-de-vera" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/_lawr.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="clyncemiro@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="email logo"  />
+  </a>
+</div>
+
+<br>
+
 <h1 align="center">👋 Hi there, I'm Lawrence</h1>
 
 🎓 I'm a Computer Science student currently studying at National University – Philippines. Passionate about building things that matter, learning endlessly, and helping people stay safe in the digital world.
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=grow_out_in&quoteCategory=programming)
+###
+
+> _"Technology is a tool — I want to use it to help, to protect, and to create."_  
+> — Lawrence
 
 ## 💻 Tech Stack & Languages
 
@@ -96,24 +115,15 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ---
 
-###
-## 📫 Let's Connect!
-<div align="left">
-  <a href="https://linkedin.com/in/chris-lawrence-de-vera" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/_lawr.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="clyncemiro@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="email logo"  />
-  </a>
+### Random Quote
+
+<div align="center">
+  
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=grow_out_in&quoteCategory=programming)
+  
 </div>
-<br>
 
 ###
-
----
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=xromory&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
@@ -122,14 +132,14 @@ One of my most personal projects is an app I built to help myself through **crea
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xromory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xromory&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=xromory&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xromory&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=xromory&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xromory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
