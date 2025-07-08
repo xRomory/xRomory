@@ -18,9 +18,9 @@
 
 ###
 
-<h1 align="center">👋 Hi there, I'm Lawrence </h1>
+<h1 align="center">👋 Hi there, I'm Romory </h1>
 
-🎓 I'm a **Computer Science** student currently studying at **National University – Philippines**. Passionate about building things that matter, learning endlessly, and helping people stay safe in the digital world.
+🎓 My name is **Lawrence De Vera** and I'm a **Computer Science** student currently studying at **National University – Philippines**. Passionate about building things that matter, learning endlessly, and helping people stay safe in the digital world.
 
 ###
 
