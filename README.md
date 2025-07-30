@@ -27,6 +27,10 @@
 > _"Technology is a tool — I want to use it to help, to protect, and to create."_  
 > — Lawrence
 
+## Currently, doing a research for my course Software Engineering, be back soon.
+
+###
+
 ## 💻 Tech Stack & Languages
 
 <h4 align="left">Currently using and learning more about:</h4>
