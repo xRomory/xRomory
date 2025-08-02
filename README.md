@@ -27,8 +27,6 @@
 > _"Technology is a tool — I want to use it to help, to protect, and to create."_  
 > — Lawrence
 
-## Currently, doing a research for my course Software Engineering, be back soon.
-
 ###
 
 ## 💻 Tech Stack & Languages
@@ -91,7 +89,7 @@ One of my most personal projects is an app I built to help myself through **crea
 ---
 
 ## 🌱 Currently Working On
-- Strengthening my full-stack development skills using **React + FastAPI**
+- Strengthening my full-stack development skills using **TypeScript with React + FastAPI**
 - Exploring **AI & machine learning** with real-world applications
 - Learning more about **cybersecurity** and **ethical hacking practices**
 
