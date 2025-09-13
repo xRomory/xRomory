@@ -105,7 +105,7 @@ I believe digital security is a fundamental right. I’m passionate about ethica
 I love exploring **psychology**, **human behavior**, and **how the human body works**. If it sparks my curiosity, I dive into it — always wondering: _“How can this knowledge help improve life?”_
 
 🎨 **Creative Background**  
-I used to work as a **graphic designer** in a **Web3-focused company**, creating event promo materials and digital assets using **Adobe Photoshop** — particularly for **tournaments** and online events.
+I used to work as a **graphic designer** in a **Web3-focused company**, creating event promo materials and digital assets using **Adobe Photoshop**, **Adobe Premiere**, and **Adobe After Effects** — particularly for **tournaments** and online events.
 
 🛠️ **Builder at Heart**  
 One of my most personal projects is an app I built to help myself through **creative block** — it transforms emotions into words when I’m struggling to express myself. I love building tools that solve **real problems**, whether for me or others.
