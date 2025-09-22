@@ -138,14 +138,14 @@ One of my most personal projects is an app I built to help myself through **crea
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xRomory&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=xRomory&theme=ocean_dark&hide_border=false" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xRomory&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" height="150 alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=xRomory&theme=ocean_dark&hide_border=false" height="150 alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRomory&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRomory&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  alt="languages graph"  />
 </div>
 
 ---
