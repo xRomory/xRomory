@@ -138,16 +138,20 @@ One of my most personal projects is an app I built to help myself through **crea
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xromory&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=xromory&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xRomory&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=xRomory&theme=ocean_dark&hide_border=false" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xromory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRomory&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="languages graph"  />
 </div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=xRomory&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 
 <div align="center">
