@@ -35,7 +35,7 @@
 
 - **Frontend:** ReactJS, TypeScript
 - **Backend:** FastAPI, Django
-- **Languages:** Python, Java, JavaScript, and a bit of C#
+- **Languages:** Python, Java, JavaScript,and Rust
 - **Others:** Machine Learning (beginner)
 
 <h3 align="left">Other Languages and Tools:</h3>
