@@ -126,16 +126,6 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ---
 
-### Random Quote
-
-<div align="center">
-  
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&animation=grow_out_in&quoteCategory=programming)
-  
-</div>
-
-###
-
 ### Stats
 
 <div align="center">
@@ -152,8 +142,10 @@ One of my most personal projects is an app I built to help myself through **crea
 ###
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
@@ -163,6 +155,3 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ###
 ---
-[![](https://visitcount.itsvg.in/api?id=xRomory&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
