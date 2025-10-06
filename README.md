@@ -112,7 +112,7 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ---
 
-### Stats
+## Stats
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=xromory&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
