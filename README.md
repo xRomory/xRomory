@@ -2,20 +2,6 @@
   <img width="800" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://linkedin.com/in/chris-lawrence-de-vera" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/_lawrdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="clyncemiro@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="email logo"  />
-  </a>
-</div>
-
 ###
 
 <h1 align="center">👋 Hi there, I'm Romory! </h1>
