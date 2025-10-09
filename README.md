@@ -98,13 +98,13 @@ My name is **Lawrence De Vera** and I'm currently studying at **National Univers
 
 ## 🛡️ Advocacy & Interests
 
-🔐 **Ethical Hacking Advocate**  
+**Ethical Hacking Advocate**  
 I believe digital security is a fundamental right. I’m passionate about ethical hacking and aim to raise awareness, especially among **Filipinos**, on the importance of staying safe and secure in the digital age.
 
-🧠 **Curious by Nature**  
+**Curious by Nature**  
 I love exploring **psychology**, **human behavior**, and **how the human body works**. If it sparks my curiosity, I dive into it — always wondering: _“How can this knowledge help improve life?”_
 
-🎨 **Creative Background**  
+**Creative Background**  
 I used to work as a **graphic designer** in a **Web3-focused company**, creating event promo materials and digital assets using **Adobe Photoshop**, **Adobe Premiere**, and **Adobe After Effects** — particularly for **tournaments** and online events.
 
 🛠️ **Builder at Heart**  
