@@ -21,7 +21,7 @@ My name is **Lawrence De Vera** and I'm currently studying at **National Univers
 
 - **Frontend:** ReactJS, TypeScript
 - **Backend:** FastAPI, Django
-- **Languages:** Python, Java, JavaScript,and Rust
+- **Languages:** Python, Java, JavaScript, and Rust
 - **Others:** Machine Learning (beginner)
 
 <h3 align="left">Other Languages and Tools:</h3>
