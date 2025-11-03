@@ -107,7 +107,7 @@ I love exploring **psychology**, **human behavior**, and **how the human body wo
 **Creative Background**  
 I used to work as a **graphic designer** in a **Web3-focused company**, creating event promo materials and digital assets using **Adobe Photoshop**, **Adobe Premiere**, and **Adobe After Effects** — particularly for **tournaments** and online events.
 
-🛠️ **Builder at Heart**  
+**Builder at Heart**  
 One of my most personal projects is an app I built to help myself through **creative block** — it transforms emotions into words when I’m struggling to express myself. I love building tools that solve **real problems**, whether for me or others.
 
 ---
@@ -121,7 +121,7 @@ One of my most personal projects is an app I built to help myself through **crea
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xRomory&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="stats graph"  />
   <img src="https://nirzak-streak-stats.vercel.app/?user=xRomory&theme=ocean_dark&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
