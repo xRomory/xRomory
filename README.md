@@ -121,15 +121,15 @@ One of my most personal projects is an app I built to help myself through **crea
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xRomory&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=xRomory&theme=ocean_dark&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xRomory&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=xRomory&theme=catppuccin_mocha&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <!-- Language Graph -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
