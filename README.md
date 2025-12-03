@@ -10,19 +10,14 @@ My name is **Lawrence De Vera** and I'm currently studying at **National Univers
 
 ###
 
-> _"Technology is a tool — I want to use it to help, to protect, and to create."_  
-> — Lawrence
-
-###
-
-## 💻 Tech Stack & Languages
+## Tech Stack & Languages
 
 <h4 align="left">Currently using and learning more about:</h4>
 
-- **Frontend:** ReactJS, TypeScript
+- **Frontend:** ReactJS, TypeScript, Next.js
 - **Backend:** FastAPI, Django
 - **Languages:** Python, Java, JavaScript, and Rust
-- **Others:** Machine Learning (beginner)
+- **Others:** Machine Learning (Advanced ML)
 
 <h3 align="left">Other Languages and Tools:</h3>
 
@@ -94,9 +89,8 @@ My name is **Lawrence De Vera** and I'm currently studying at **National Univers
 
 ###
 
----
-
-## 🛡️ Advocacy & Interests
+<!--
+## Advocacy & Interests
 
 **Ethical Hacking Advocate**  
 I believe digital security is a fundamental right. I’m passionate about ethical hacking and aim to raise awareness, especially among **Filipinos**, on the importance of staying safe and secure in the digital age.
@@ -109,7 +103,7 @@ I used to work as a **graphic designer** in a **Web3-focused company**, creating
 
 **Builder at Heart**  
 One of my most personal projects is an app I built to help myself through **creative block** — it transforms emotions into words when I’m struggling to express myself. I love building tools that solve **real problems**, whether for me or others.
-
+-->
 ---
 
 ## Stats
@@ -121,15 +115,15 @@ One of my most personal projects is an app I built to help myself through **crea
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xRomory&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=xRomory&theme=catppuccin_mocha&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xRomory&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=xRomory&theme=midnight-purple&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <!-- Language Graph -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
