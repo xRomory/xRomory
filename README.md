@@ -89,7 +89,7 @@ My name is **Lawrence De Vera** and I'm currently studying at **National Univers
 
 ###
 
-<!--
+
 ## Advocacy & Interests
 
 **Ethical Hacking Advocate**  
@@ -103,7 +103,7 @@ I used to work as a **graphic designer** in a **Web3-focused company**, creating
 
 **Builder at Heart**  
 One of my most personal projects is an app I built to help myself through **creative block** — it transforms emotions into words when I’m struggling to express myself. I love building tools that solve **real problems**, whether for me or others.
--->
+
 ---
 
 ## Stats
