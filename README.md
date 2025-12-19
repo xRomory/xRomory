@@ -14,8 +14,8 @@ My name is **Lawrence De Vera** and I'm currently studying at **National Univers
 
 <h4 align="left">Currently using and learning more about:</h4>
 
-- **Frontend:** ReactJS, TypeScript, Next.js
-- **Backend:** FastAPI, Django
+- **Frontend:** ReactJS, TypeScript, Next.js, Nuxt, Vue
+- **Backend:** FastAPI, Django Node.js, Express.js
 - **Languages:** Python, Java, JavaScript, and Rust
 - **Others:** Machine Learning (Advanced ML)
 
@@ -34,11 +34,23 @@ My name is **Lawrence De Vera** and I'm currently studying at **National Univers
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="4" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="4" />
