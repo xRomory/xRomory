@@ -1,5 +1,3 @@
-<!--
-
 <div align="center">
   <img width="600" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 </div>
@@ -120,6 +118,8 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ---
 
+-->
+
 ## Stats
 
 <div align="center">
@@ -149,5 +149,3 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ###
 ---
-
--->
