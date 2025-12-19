@@ -1,5 +1,7 @@
+<!--
+
 <div align="center">
-  <img width="800" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+  <img width="600" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 </div>
 
 ###
@@ -116,8 +118,6 @@ I used to work as a **graphic designer** in a **Web3-focused company**, creating
 **Builder at Heart**  
 One of my most personal projects is an app I built to help myself through **creative block** — it transforms emotions into words when I’m struggling to express myself. I love building tools that solve **real problems**, whether for me or others.
 
--->
-
 ---
 
 ## Stats
@@ -135,7 +135,6 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ###
 
-<!-- Language Graph -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -150,3 +149,5 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ###
 ---
+
+-->
