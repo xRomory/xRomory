@@ -119,8 +119,6 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ---
 
--->
-
 ## Stats
 
 <div align="center">
@@ -142,11 +140,11 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ###
 
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xRomory&radius=16&theme=modern-lilac&area=true&order=5&color=BFA5FF&line=BFA5FF&point=FF7D8D&area_color=AE94FF" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 ---
+
+-->
