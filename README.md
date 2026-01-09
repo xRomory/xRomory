@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there, I'm Romory! </h1>
 
-My name is **Lawrence De Vera** and I'm currently studying at **National University – Manila, Philippines**. Taking **Bachelor of Science in Computer Science with specialization in Machine Learning**. Passionate about building things that matter, learning endlessly, and helping people stay safe in the digital world.
+My name is **Lawrence De Vera**. I'm currently working as a **Full-stack developer** at **Arterion Philippines** and also currently studying at **National University – Manila, Philippines**. Taking **Bachelor of Science in Computer Science with specialization in Machine Learning**. Passionate about building things that matter, learning endlessly, and helping people stay safe in the digital world.
 
 ###
 
