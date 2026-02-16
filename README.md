@@ -119,8 +119,6 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ---
 
--->
-
 ## Stats
 
 
@@ -143,7 +141,6 @@ One of my most personal projects is an app I built to help myself through **crea
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
 <div align="center">
@@ -153,3 +150,5 @@ One of my most personal projects is an app I built to help myself through **crea
 ###
 
 ---
+
+-->
