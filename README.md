@@ -17,7 +17,7 @@ My name is **Lawrence De Vera**. I'm currently working as a **Full-stack develop
 - **Frontend:** ReactJS, TypeScript, Next.js, Nuxt, Vue
 - **Backend:** FastAPI, Django Node.js, Express.js
 - **Languages:** Python, Java, JavaScript, and Rust
-- **Others:** Machine Learning (Advanced ML)
+- **Others:** Machine Learning (Reinforcement Learning)
 
 <h3 align="left">Other Languages and Tools:</h3>
 
