@@ -117,26 +117,31 @@ I used to work as a **graphic designer** in a **Web3-focused company**, creating
 **Builder at Heart**  
 One of my most personal projects is an app I built to help myself through **creative block** — it transforms emotions into words when I’m struggling to express myself. I love building tools that solve **real problems**, whether for me or others.
 
+-->
+
 ---
 
 ## Stats
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=xRomory&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com/?user=xRomory&theme=dark&hide_border=false/?user=xRomory&theme=catppuccin_mocha&hide_border=false" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=xRomory&theme=catppuccin_mocha&hide=jupyter%20notebook,scss,css,html,mako&border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+</div>
+
+<!--
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=xromory&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xRomory&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=xRomory&theme=catppuccin_mocha&hide_border=false" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xRomory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -146,6 +151,6 @@ One of my most personal projects is an app I built to help myself through **crea
 
 ###
 
----
-
 -->
+
+---
